@@ -54,8 +54,3 @@ Download or save the generated image.<br>
 🔹 Support for multiple AI models<br>
 🤝 Contributing<br>
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
-
-📜 License<br>
-This project is licensed under the MIT License.
-
