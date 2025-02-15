@@ -16,9 +16,9 @@ an intuitive interface to generate, customize, and download AI-generated images.
 - **AI Model:** Stable Diffusion  
 - **API:** ComfyUI / Stable Diffusion API  
 
-![Project Banner](assets/Banner1.png)
-![Project Banner](assets/Banner2.png)
-![Project Banner](assets/Banner3.png)
+![Project Banner](client/src/assets/Banner1.png)
+![Project Banner](client/src/assets/Banner2.png)
+![Project Banner](client/src/assets/Banner3.png)
 
 
 📌 Installation
